@@ -1,1 +1,1 @@
-# vedunew
+print ("hello wolrd")
