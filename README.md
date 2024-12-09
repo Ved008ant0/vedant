@@ -1,2 +1,1 @@
-# vedant
-this a new python
+print ("hello world")
